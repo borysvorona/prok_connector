@@ -1,0 +1,14 @@
+*.log
+*.pot
+*.pyc
+__pycache__/
+.idea
+env/*
+venv/*
+.venv/*
+dumps/*
+.env.secret
+data/*
+project/*
+local_settings.py
+configs/serviceAccountKey.json
